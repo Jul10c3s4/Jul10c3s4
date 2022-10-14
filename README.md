@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a student at the Instituto Federal Campus Arapiraca of the computer course
 
 <!--
 **Jul10c3s4/Jul10c3s4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

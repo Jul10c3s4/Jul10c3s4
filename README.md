@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
  <div style="display: inline_block">
 
- ![Snake animation](https://github.com/duardoqueiroz/duardoqueiroz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jul10c3s4/jul10c3s4/blob/output/github-contribution-grid-snake.svg)

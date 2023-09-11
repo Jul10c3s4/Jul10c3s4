@@ -1,4 +1,4 @@
-### Hi, I am a student at the Instituto Federal Campus Arapiraca of the computer course
+### Hello, I'm a student at Instituto Federal Campus Arapiraca on the information systems course
 
 <!--
 **Jul10c3s4/Jul10c3s4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
  <div style="display: inline_block">
 
- ![Snake animation](https://github.com/jul10c3s4/jul10c3s4/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jul10c3s4/Jul10c3s4/blob/output/github-contribution-grid-snake.svg)

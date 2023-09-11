@@ -15,7 +15,7 @@
 ### How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/julio-cesar-dos-santos-oliveira-51461a25a/)
-[![perfil da DIO](https://web.dio.me/users/juliocesarsantosoliveira79/?tab=skills)
+[![Perfil da DIO](https://img.shields.io/badge/dio-000?style=for-the-badge&logo=dio&logoColor=0E76A8)](https://web.dio.me/users/juliocesarsantosoliveira79/?tab=skills)
 
 <h3>📊 Statistics:</h3> 
 <div> <a href="https://github.com/Jul10c3s4"> 

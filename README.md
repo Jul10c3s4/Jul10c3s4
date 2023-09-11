@@ -14,7 +14,5 @@
  <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul10c3s4&layout=compact&langs_count=7&theme=github_dark"/></br></br> 
  <img src="https://github-profile-trophy.vercel.app/?username=Jul10c3s4&theme=darkhub&margin-w=9&hide_border=true"> 
 </div> 
- <div style="display: inline_block">
-  ![Snake animation](https://github.com/jul10c3s4/jul10c3s4/blob/output/github-contribution-grid-snake.svg)
- </div>div>
+
 

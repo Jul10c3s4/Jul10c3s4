@@ -1,8 +1,11 @@
-Hello, I'm a student at Instituto Federal Campus Arapiraca on the information systems course
-I’m currently learning React.ts and flutter.
-I’m looking to collaborate on innovative projects.
-How to reach me:
-LinkedIn
+##Hello, I'm a student at Instituto Federal Campus Arapiraca on the information systems course
+
+###I’m currently learning React.ts and flutter.
+
+###I’m looking to collaborate on innovative projects.
+
+###How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/julio-cesar-dos-santos-oliveira-51461a25a/)
 
 <h3>📊 Statistics:</h3> 
 <div> <a href="https://github.com/Jul10c3s4"> 

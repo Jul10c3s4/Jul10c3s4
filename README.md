@@ -1,6 +1,8 @@
 ## Hello, I'm a student at Instituto Federal Campus Arapiraca on the information systems course
 
-### I’m currently learning React.ts and flutter.
+### I’m currently learning:
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=30A3DC)
 
 ### I’m looking to collaborate on innovative projects.
 

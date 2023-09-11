@@ -3,7 +3,7 @@
 ### my skills:
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=30A3DC)
-![React Native](https://img.shields.io/badge/?style=for-the-badge&logo=React-Native)
+![React Native](https://img.shields.io/badge/React-Native?style=for-the-badge&logo=React-Native)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)

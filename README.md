@@ -15,4 +15,5 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Jul10c3s4&theme=darkhub&margin-w=9&hide_border=true"> 
 </div> 
  <div style="display: inline_block">
-Snake animation
+ ![Snake animation](https://github.com/jul10c3s4/jul10c3s4/blob/output/github-contribution-grid-snake.svg)
+
